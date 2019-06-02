@@ -1,0 +1,5 @@
+*/_pycache_/
+settings.json/*
+package-lock.json/*
+.vscode/*
+.node_modules/*
